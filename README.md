@@ -1,2 +1,2 @@
-# VicyMC
-An app/network designed to be the only platform you will ever need when it comes to playing minecraft.
+# Vicy Client
+An advanced, easy-to-use open source Minecraft client written in python.
